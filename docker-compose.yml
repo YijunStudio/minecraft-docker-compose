@@ -9,7 +9,7 @@ services:
       EULA: "TRUE"
       MOTD: "New Minecraft Server wiz Old Data. Hell Yeah"
       DIFFICULTY: hard
-      MEMORY: 2G
+      MEMORY: 1G
       OVERRIDE_SERVER_PROPERTIES: "true"
     tty: true
     stdin_open: true
@@ -24,7 +24,7 @@ services:
       EULA: "TRUE"
       MOTD: "2023 New Minecraft Server. Hell Yeah"
       DIFFICULTY: hard
-      MEMORY: 2G
+      MEMORY: 1G
       OVERRIDE_SERVER_PROPERTIES: "true"
     tty: true
     stdin_open: true
